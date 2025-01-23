@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am a Full-Stack Software Engineer.</h1>
+<h1 align="center">Hi 👋, I am a Full-Stack Software Engineer</h1>
 <h3 align="center">I enjoy crafting efficient, scalable, and user-friendly applications.</h3>
 
 - 🌱 I’m committed to **staying up-to-date with the latest trends and technologies.**
