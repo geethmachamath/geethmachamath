@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I am a Software Engineer specializing in Full-Stack Development.</h1>
+<h2 align="center">Hi 👋, I am a Software Engineer specializing in Full-Stack Development.</h2>
 <h3 align="center">I enjoy crafting efficient, scalable, and user-friendly applications.</h3>
 
 - 🌱 I’m committed to **staying up-to-date with the latest trends and technologies.**
 
 - 💬 Ask me about **React.js,TypeSript, JavaScript, Node.js, Express.js, PHP, Figma**
 
-- 📫 How to reach me **geethmachamath7@gmail.com**
+- 📫 How to reach me: **geethmachamath7@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/mrgeethma](https://www.linkedin.com/in/mrgeethma/)
+- 📄 Know about my experiences: [www.linkedin.com/in/mrgeethma](https://www.linkedin.com/in/mrgeethma/)
 
-- 💬 Motto **If someone says it is impossible, be the first one to do it.**
+- 💬 Motto: **If someone says it is impossible, be the first one to do it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
