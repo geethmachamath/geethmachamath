@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences: [www.linkedin.com/in/mrgeethma](https://www.linkedin.com/in/mrgeethma/)
 
-- 💬 Motto: **If someone says it is impossible, be the first one to do it.**
+- 💬 Motto: **If someone says it is impossible, be the first to do it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
